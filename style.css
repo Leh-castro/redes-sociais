@@ -14,16 +14,19 @@ font-family: var(--font);
 height: 100vh;
 margin: 0;
 }
+
 header{
 background-color: var(--primary-color);
 text-align: center;
 padding: 1px;
 }
+
 h1{
 font-size: 2rem;
 color: var(--bg-color);
 font-weight: 700;
 }
+
 nav {
 display: flex;
 justify-content: center;
@@ -36,6 +39,7 @@ color: var(--bg-color);
 margin: 0rem 2rem 3rem 0rem;
 font-size: 1.2rem;
 }
+
 nav a:hover{
 text-decoration: underline;
 transform: scale(0.90);
